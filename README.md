@@ -73,8 +73,8 @@ source /root/ros2_ws/install/setup.bash
 
 A continuación debe colocarse la imagen del esquema general del sistema:
 
-![texto](./ros_tello_architecture.png)  
-(Insertar aquí el diagrama que muestra Docker → ROS2 → Dron DJI Tello)
+![Arquitectura de la implementación del proyecto](./ros_tello_architecture.png)  
+
 
 ## Descripción de Nodos
 
@@ -114,10 +114,6 @@ Detecta objetos rojos y negros con HSV.
 - Activación del modo failsafe.  
 - Prueba del plan de misión automática.  
 - Detección de objetos rojos/negros.
-
-## Repositorio
-
-https://github.com/santiagm/Proyecto1_Drone_Tello_ROS
 
 ## Autores
 
