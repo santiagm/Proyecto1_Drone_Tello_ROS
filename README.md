@@ -73,7 +73,7 @@ source /root/ros2_ws/install/setup.bash
 
 A continuación debe colocarse la imagen del esquema general del sistema:
 
-![texto](C:\Users\guill\OneDrive\Documents\pdfs universidad\9no ciclo\Sensores\Proyecto1\ros_tello_architecture.png)  
+![texto](.\ros_tello_architecture.png)  
 (Insertar aquí el diagrama que muestra Docker → ROS2 → Dron DJI Tello)
 
 ## Descripción de Nodos
